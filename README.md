@@ -3,7 +3,7 @@ The Data Science Portfolio showcases ten projects I've developed as part of the 
 
 # Table of Contents
    
-1. [Airline Delay Performance](#airlinedelayperformance)
+1. [Airline Performance](#airlineperformance)
    
 2.  [Airline Delay Prediction](#airlinedelayprediction)
 
@@ -23,7 +23,7 @@ The Data Science Portfolio showcases ten projects I've developed as part of the 
 
 10. [Project3](#project3) 
 
-## 1. Airline Delay Performance  
+## 1. Airline Performance  
   ###### Description: 
     Airline cancellations or delays are one of the major causes of passenger inconvenience. This project aims to gain meaningful insights into the best-performing airlines
     and understanding the causes of delays and cancellations across different airline carriers.
