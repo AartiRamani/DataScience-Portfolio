@@ -1,5 +1,5 @@
 # DataScience_Portfolio
-The Data Science Portfolio showcases ten projects I've developed as part of the Bellevue University master’s in data science Program. 
+The Data Science Portfolio showcases ten projects I've developed. 
 
 # Table of Contents
    
@@ -27,9 +27,7 @@ The Data Science Portfolio showcases ten projects I've developed as part of the 
   ###### Description: 
     Airline cancellations or delays are one of the major causes of passenger inconvenience. This project aims to gain meaningful insights into the best-performing airlines
     and understanding the causes of delays and cancellations across different airline carriers.
-    As a performance measure, we would be exploring on-time
-    arrivals, the number of cancellations by carrier, and also explore different reasons for a
-    carrier delay.  
+    As a performance measure, we would be exploring on-time arrivals, the number of cancellations by carrier, and also explore different reasons for a carrier delay.  
   
 ## 2. Airline Delay Prediction 
    ###### Description:
