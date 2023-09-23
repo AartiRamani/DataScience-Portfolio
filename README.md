@@ -3,15 +3,15 @@ The Data Science Portfolio showcases ten projects I've developed as part of the 
 
 # Table of Contents
    
-1. [Airline Performance](#airlineperformance)
+1. [Airline Performance](https://github.com/AartiRamani/DataScience_Portfolio/tree/main/Airline%20Performance)
    
-2.  [Airline Delay Prediction](#airlinedelayprediction)
+2.  [Airline Delay Prediction](https://github.com/AartiRamani/DataScience_Portfolio/tree/main/Airline%20Delay%20Prediction)
 
-3.  [Breast Cancer Prediction](#breastcancerprediction)
+3.  [Breast Cancer Prediction](https://github.com/AartiRamani/DataScience_Portfolio/tree/main/Breast%20Cancer%20Prediction)
 
 4.  [Credit Card Fraud Prediction](#creditcardfraudprediction)
 
-5.  [Airline Travel Safety](#airlinetravelsafety)	
+5.  [Airline Travel Safety](https://github.com/AartiRamani/DataScience_Portfolio/tree/main/Airline%20Travel%20Safety)	
 
 6.  [Movie Recommender System](#movierecommender)	
 
@@ -31,7 +31,7 @@ The Data Science Portfolio showcases ten projects I've developed as part of the 
     arrivals, the number of cancellations by carrier, and also explore different reasons for a
     carrier delay.  
   
-## 2. Airline Delay Prediction  
+## 2. Airline Delay Prediction 
    ###### Description:
     Passenger inconvenience is often caused by airline cancellations and delays, making it an important issue to address in the airline industry. 
     As someone who works in this field, I have always been fascinated by market prediction and flight performance measures.  
