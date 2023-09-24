@@ -15,7 +15,8 @@ This dataset contains stimulated credit card data with legitimate and fraudulent
   #### Installing
      You will need Jupyter Notebook to run the ipynb file. Install Anaconda for Jupyter Notebook.
   #### Executing program
-    Clone this folder and run the ipynb file using Jupyter Notebook
+    Clone this folder and run the ipynb file using Jupyter Notebook. 
+    The step to download the dataset has been commented. Uncomment this step to download and access the data for this project.
   #### Help
   #### Authors
   Contributors names : Aarti Ramani
