@@ -9,7 +9,7 @@ The Data Science Portfolio showcases ten projects I've developed.
 
 3.  [Breast Cancer Prediction](https://github.com/AartiRamani/DataScience_Portfolio/tree/main/Breast%20Cancer%20Prediction)
 
-4.  [Credit Card Fraud Prediction](#creditcardfraudprediction)
+4.  [Credit Card Fraud Prediction](https://github.com/AartiRamani/DataScience-Portfolio/tree/main/Credit%20Card%20Fraud%20Prediction)
 
 5.  [Airline Travel Safety](https://github.com/AartiRamani/DataScience_Portfolio/tree/main/Airline%20Travel%20Safety)	
 
