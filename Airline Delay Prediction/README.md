@@ -10,6 +10,7 @@ Airline cancellations or delays are one of the major causes of passenger inconve
 Data was collected by DOT's Bureau of Transportation. The Excel data has airline performance factors such as canceled, diverted, delayed, and on-time data. The downloaded raw data has up to 34 columns. 
 Download Raw Data link for data - (https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?20=E).
 Due to the execution size limitation, this study is restricted to one month of airline data, May’2022.
+For ease of access, data is uploaded here - (https://drive.google.com/drive/folders/1tmYibkkvdnGwa2whHG4U4CPnXWec7A_Y?usp=drive_link)
  
 ### Getting Started
   #### Dependencies
@@ -17,7 +18,9 @@ Due to the execution size limitation, this study is restricted to one month of a
   #### Installing
      You will need Jupyter Notebook to run the ipynb file. Install Anaconda for Jupyter Notebook.
   #### Executing program
-    Clone this folder and run the ipynb file using Jupyter Notebook
+  Clone this folder and run the ipynb file using Jupyter Notebook\
+  Download the dataset from - (https://drive.google.com/drive/folders/1tmYibkkvdnGwa2whHG4U4CPnXWec7A_Y?usp=drive_link)
+  and update the data path in the ipynb file to access.
   #### Help
   #### Authors
   Contributors names : Aarti Ramani
