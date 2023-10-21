@@ -19,7 +19,7 @@ The Data Science Portfolio showcases ten projects I've developed.
 
 8.  [Diabetes Prediction](#diabetesprediction)
 
-9.  [Project2](#project2)
+9.  [Heart Attack Prediction](https://github.com/AartiRamani/DataScience-Portfolio/tree/main/Heart%20Attack%20Prediction)
 
 10. [Project3](#project3) 
 
@@ -68,8 +68,12 @@ The Data Science Portfolio showcases ten projects I've developed.
     Diabetes is a prevalent health concern worldwide, affecting millions of lives. This project is dedicated to the early detection and prediction of diabetes using data-driven approaches.
     Harnessing the power of machine learning and medical data, the aim is to provide valuable insights into the risk factors and predictive indicators of diabetes.
 
-## 9. Project 2  
+## 9. Heart Attack Prediction  
   ###### Description:
+     Heart attacks are a leading cause of sudden and fatal deaths globally, often requiring immediate medical intervention.  It is a significant global health concern due to lifestyle-   
+     related risk factors, an aging population, healthcare costs, and treatment gaps. Despite significant advancements in medical science, Heart disease still remains the leading cause of
+     death in the United States, with the CDC reporting approximately 659,000 annual fatalities, accounting for one in every four deaths. Leveraging the power of machine learning, this 
+     project delves into the world of heart attack prediction.
 
 ## 10. Project 3  
   ###### Description:
