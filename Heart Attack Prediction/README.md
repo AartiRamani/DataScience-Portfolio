@@ -1,4 +1,4 @@
-## Credit Card Fraud Detection
+## Heart Attack Prediction 
 A project focused on analyzing heart attack prediction data using machine learning techniques to advance healthcare and save lives.  
 
 ### Description
