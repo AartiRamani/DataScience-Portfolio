@@ -13,15 +13,15 @@ The Data Science Portfolio showcases ten projects I've developed.
 
 5.  [Airline Travel Safety](https://github.com/AartiRamani/DataScience_Portfolio/tree/main/Airline%20Travel%20Safety)	
 
-6.  [Movie Recommender System](#movierecommender)	
+6.  [Movie Recommender System](https://github.com/AartiRamani/DataScience-Portfolio/tree/main/Movie%20Recommender%20System)	
 
-7.  [Sentiment Analysis](#sentimentanalysis)
+7.  [Sentiment Analysis](https://github.com/AartiRamani/DataScience-Portfolio/tree/main/Sentiment%20Analysis)
 
-8.  [Diabetes Prediction](#diabetesprediction)
+8.  [Diabetes Data - EDA](https://github.com/AartiRamani/DataScience-Portfolio/tree/main/Diabetes%20Data%20EDA)
 
 9.  [Heart Attack Prediction](https://github.com/AartiRamani/DataScience-Portfolio/tree/main/Heart%20Attack%20Prediction)
 
-10. [Project3](#project3) 
+10. [Weather Application](https://github.com/AartiRamani/DataScience-Portfolio/tree/main/Weather%20App) 
 
 ## 1. Airline Performance  
   ###### Description: 
@@ -63,10 +63,11 @@ The Data Science Portfolio showcases ten projects I've developed.
     In today's digital age, opinions and sentiments are expressed abundantly across the web, from social media posts to product reviews. This project harnesses the power of machine 
     learning to analyze and understand these sentiments.
   
-## 8. Diabetes Prediction  
+## 8. Diabetes Data EDA  
   ###### Description:
-    Diabetes is a prevalent health concern worldwide, affecting millions of lives. This project is dedicated to the early detection and prediction of diabetes using data-driven approaches.
-    Harnessing the power of machine learning and medical data, the aim is to provide valuable insights into the risk factors and predictive indicators of diabetes.
+  Diabetes is a prevalent health concern worldwide, affecting millions of lives. This project project meticulously examines a vast dataset, unveiling hidden patterns and correlations. By 
+  visualizing and summarizing key factors, we helps healthcare professionals and researchers to make informed decisions and develop effective strategies for diabetes management and 
+  prevention.
 
 ## 9. Heart Attack Prediction  
   ###### Description:
@@ -75,5 +76,6 @@ The Data Science Portfolio showcases ten projects I've developed.
      death in the United States, with the CDC reporting approximately 659,000 annual fatalities, accounting for one in every four deaths. Leveraging the power of machine learning, this 
      project delves into the world of heart attack prediction.
 
-## 10. Project 3  
+## 10. Weather Application
   ###### Description:
+  A python program that accepts the user input for city name and zip code and provides the weather information for that location.
