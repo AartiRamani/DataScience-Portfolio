@@ -1,5 +1,5 @@
 # DataScience_Portfolio
-The Data Science Portfolio showcases ten projects I've developed. 
+The Data Science Portfolio showcases ten projects I've developed. Please visit my Portfolio here: [AartiRamani-Portfolio](https://aartirams02.wixsite.com/aarti-ramani)
 
 # Table of Contents
    
