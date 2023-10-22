@@ -14,8 +14,8 @@ This dataset has around 12 features with around 900 rows.
   #### Installing
      You will need Jupyter Notebook to run the ipynb file. Install Anaconda for Jupyter Notebook.
   #### Executing program
-    Clone this folder and run the ipynb file using Jupyter Notebook. 
     Download the dataset in the same path as the jupyter file before executing the code.
+	Clone this GitHub folder and run the ipynb file using Jupyter Notebook. 
 	
   #### Help
   #### Authors
